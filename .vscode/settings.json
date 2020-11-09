@@ -1,4 +1,12 @@
 {
     "python.pythonPath": "/Users/michaeltyler/.local/share/virtualenvs/raterproject-18WwbMoK/bin/python",
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Rater API",
+            "database": "${workspaceFolder:raterproject}/db.sqlite3"
+        }
+    ]
 }

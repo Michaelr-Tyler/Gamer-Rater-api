@@ -1,0 +1,15 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Call of duty Warzone",
+            "description": "Battle Royal, first person shooter Based in the made up city of Verdansk. 150 players battle it out to last person standing.",
+            "duration": "25-30mins",
+            "release_year": 2020,
+            "number_of_players":150,
+            "age_restrictions": 13,
+            "designer": 7
+        }
+    }
+]
