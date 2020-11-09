@@ -9,3 +9,4 @@ class Game(models.Model):
     release_year = models.IntegerField()
     number_of_players = models.IntegerField()
     age_restrictions = models.IntegerField()
+    designer = models.ForeignKey("Designer", on_delete=models.CASCADE)

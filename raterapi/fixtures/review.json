@@ -1,0 +1,13 @@
+[
+    {
+        "model": "raterapi.review",
+        "pk":1,
+        "fields": {
+            "comment": "What an intense game!!!",
+            "rating": 88,
+            "timestamp": "2020-11-8",
+            "player":1,
+            "game":1
+        }
+    }
+]

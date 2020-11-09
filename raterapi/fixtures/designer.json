@@ -1,0 +1,63 @@
+[
+    {
+        "model": "raterapi.designer",
+        "pk":1,
+        "fields": {
+            "name" : "Sony"
+        }
+    } , {
+        "model": "raterapi.designer",
+        "pk":2,
+        "fields": {
+            "name" : "Microsoft"
+        }
+    },{
+        "model": "raterapi.designer",
+        "pk":3,
+        "fields": {
+            "name" : "Nintendo"
+        }
+    } , {
+        "model": "raterapi.designer",
+        "pk":4,
+        "fields": {
+            "name" : "Tencent"
+        }
+    } ,{
+        "model": "raterapi.designer",
+        "pk":5,
+        "fields": {
+            "name" : "Activision Blizzard"
+        }
+    } , {
+        "model": "raterapi.designer",
+        "pk":6,
+        "fields": {
+            "name" : "Electroni Arts"
+        }
+    } ,{
+        "model": "raterapi.designer",
+        "pk":7,
+        "fields": {
+            "name" : "Treysarch"
+        }
+    } , {
+        "model": "raterapi.designer",
+        "pk":8,
+        "fields": {
+            "name" : "Bunji"
+        }
+    } ,{
+        "model": "raterapi.designer",
+        "pk":9,
+        "fields": {
+            "name" : "Take-two Interactive"
+        }
+    } , {
+        "model": "raterapi.designer",
+        "pk":10,
+        "fields": {
+            "name" : "Epic Games"
+        }
+    }
+]

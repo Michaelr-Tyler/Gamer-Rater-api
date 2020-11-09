@@ -1,0 +1,11 @@
+[
+    {
+        "model": "raterapi.image",
+        "pk": 1,
+        "fields": {
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/71/COD_Warzone_cover_art.jpg",
+            "player": 1,
+            "game":1
+        }
+    }
+]
